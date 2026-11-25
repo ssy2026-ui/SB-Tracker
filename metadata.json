@@ -1,0 +1,6 @@
+{
+  "name": "S&B Tracker — Savings and Bills Tracker",
+  "description": "Track Your Bills. Build Your Savings. Organize monthly bills, calculate daily bill funding targets, and track your savings goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
